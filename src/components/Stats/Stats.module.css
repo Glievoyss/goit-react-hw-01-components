@@ -1,0 +1,26 @@
+.statsSection {
+  margin: 0 auto;
+  border: 1px solid black;
+  text-align: center;
+  max-width: 400px;
+}
+
+.statList {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.item {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 70px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
